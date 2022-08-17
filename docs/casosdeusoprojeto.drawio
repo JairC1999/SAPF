@@ -13,7 +13,7 @@
                 <mxCell id="13" value="Excluir Projetos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="579.9999999999999" y="440" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Editar Projetos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="14" value="Avaliar Projetos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="580" y="375" width="120" height="45" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="Criar Projetos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
