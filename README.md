@@ -1,2 +1,2 @@
-# SAPF
-Nome: Sistema Acadêmico para Projeto Final. 
+# SADPE
+Nome: Sistema Ajuda na Decisão de Projetos e Estágios. 
