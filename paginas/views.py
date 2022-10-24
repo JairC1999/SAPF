@@ -2,5 +2,5 @@ from django.views.generic import TemplateView
 
 # Create your views here.
 class IndexView(TemplateView):
-    template_name = "paginainicial.html" 
+    template_name = "login.html" 
     
