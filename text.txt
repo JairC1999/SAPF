@@ -1,0 +1,20 @@
+EM models.py:
+class Persor(models.Model):
+#quando não definir uma primary key
+   first_name =  models.charField ("Primeiro nome", max_lenght=30)
+   last_name = models.Charfield ("Segundo nome", max_lenght=30)
+   telefone = models.Charfield ("Telefone", max_lenght = 19, null = True)
+
+EM admin.py:
+
+admin.site.register(Persor)
+
+EM INSTALEDD_APPS:
+ [
+    apps,
+ ]
+
+No terminal:
+python .\manage.py makemigrations
+
+python .\manage.py migrations
